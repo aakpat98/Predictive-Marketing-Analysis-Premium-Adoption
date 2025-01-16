@@ -7,6 +7,7 @@ This project focuses on predicting which users of the music-listening social net
 - **Dataset.csv**: The dataset containing user activity, demographics, and campaign results.
 - **Technical_Report.pdf**: The technical report detailing the analytical process, modeling techniques, and performance evaluation.
 - **Presentation.mp4**: A 5-minute video presentation summarizing the project for a managerial audience.
+- **analysis_script.Rmd**: RMarkdown script for data preprocessing, EDA, feature engineering, modeling, and performance evaluation.
 
 ## Key Components
 1. **Data Preparation**:
