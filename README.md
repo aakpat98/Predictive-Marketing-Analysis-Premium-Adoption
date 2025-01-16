@@ -1,4 +1,4 @@
-# README for Premium Subscription Prediction Project
+# README for Premium Adoption Prediction Project
 
 ## Overview
 This project focuses on predicting which users of the music-listening social networking site "XYZ" are most likely to convert from free users to premium subscribers within six months, based on a targeted marketing campaign. Using a dataset of user activity and demographics, we applied various machine learning techniques to identify high-potential adopters and optimize XYZ’s marketing strategy.
